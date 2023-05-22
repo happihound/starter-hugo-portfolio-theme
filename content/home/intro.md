@@ -5,7 +5,7 @@ headless: true
 
 weight: 10
 
-author: Bev
+author: admin
 design:
  background:
    color: '#17181a'
