@@ -1,3 +1,4 @@
+---
 widget: about.avatar
 
 headless: true
