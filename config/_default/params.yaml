@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'happihound'
-    description: 'Bev's Portfolio'
-    twitter: 'happihound'
+    org_name: happihound
+    description: Bev's Portfolio
+    twitter: https://twitter.com/happihound
   analytics:
     google_analytics: ''
     baidu_tongji: ''
