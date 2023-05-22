@@ -6,11 +6,11 @@ headless: true
 weight: 10
 
 author: admin
-design:
- background:
-   color: '#17181a'
-   text_color_light: true
- css_class: fullscreen
+# design:
+#  background:
+#    color: '#17181a'
+#    text_color_light: true
+#  css_class: fullscreen
 ---
 
 👋 Hi, there! I'm **Bev**, a Software Engineering Student at Rochester Institute of Technology.

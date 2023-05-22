@@ -44,7 +44,7 @@ social:
     link: 'https://twitter.com/happihound'
 ---
 
-Beva is a software engineering student at the Rochester Institute of Technology, currently maintaining a GPA of 3.3. He has professional experience as an Esports coach and Twitch moderator. His research interests include machine learning and AI, specifically in the development of face cloning models and object detection.
+Bev is a software engineering student at the Rochester Institute of Technology, currently maintaining a GPA of 3.3. He has professional experience as an Esports coach and Twitch moderator. His research interests include machine learning and AI, specifically in the development of face cloning models and object detection.
 
 He has been an instrumental part of various community initiatives, demonstrating strong leadership and organizational skills through his participation in charity activities such as "Gaming for Love" with Post Malone. His significant contributions to the gaming community are evident in his collaborative projects, which include Apex Rotation Advice and Apex Tracking, among others.
 
