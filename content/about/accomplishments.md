@@ -23,30 +23,62 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2019-01-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: NSA
+    organization_url: ''
+    title: GenCyber program
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2019-01-01'
+    description: In recognition of outstanding achievement and excellence in the GenCyber Course.
+    organization: FBI
+    organization_url: ''
+    title: GenCyber Challenge Coin
     url: ''
+  - certificate_url: 'https://github.com/happihound/apex-rotation-advice'
+    date_end: ''
+    date_start: '2022-01-01'
+    description: Developed a Python program to compute the safest path between two locations in Apex Legends.
+    organization: GitHub
+    organization_url: 'https://github.com/happihound'
+    title: 'Apex Rotation Advice'
+    url: 'https://github.com/happihound/apex-rotation-advice'
+  - certificate_url: 'https://github.com/happihound/breakingTurtleGraphics'
+    date_end: ''
+    date_start: '2022-01-01'
+    description: A Python program that converts images into a list of lines with color included and draws them using Python turtle graphics.
+    organization: GitHub
+    organization_url: 'https://github.com/happihound'
+    title: 'Breaking Turtle Graphics'
+    url: 'https://github.com/happihound/breakingTurtleGraphics'
+  - certificate_url: 'https://github.com/happihound/TwitchBot'
+    date_end: ''
+    date_start: '2022-01-01'
+    description: A chat client that rewards users for sending messages and allows them to bet points.
+    organization: GitHub
+    organization_url: 'https://github.com/happihound'
+    title: 'TwitchBot'
+    url: 'https://github.com/happihound/TwitchBot'
+  - certificate_url: 'https://github.com/happihound/apexTracking'
+    date_end: ''
+    date_start: '2022-01-01'
+    description: A suite of programs utilizing openCV to track various on screen elements in the videogame Apex Legends.
+    organization: GitHub
+    organization_url: 'https://github.com/happihound'
+    title: 'Apex Tracking'
+    url: 'https://github.com/happihound/apexTracking'
+  - certificate_url: 'https://streamable.com/adhs9y'
+    date_end: ''
+    date_start: '2022-01-01'
+    description: Experience with description: Experience with deepfake technology and face cloning, utilizing machine learning to replicate facial expressions and movements.
+    organization: Streamable
+    organization_url: 'https://streamable.com/'
+    title: 'Deepface'
+    url: 'https://streamable.com/adhs9y'
 
 design:
   columns: '1'

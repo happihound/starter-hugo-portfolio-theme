@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Moderator
+    company: Twitch
+    company_url: 'https://twitch.tv/faide'
+    location: Remote
+    date_start: '2020-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Responding to user inquiries and complaints
+        * Working with team members to resolve issues and enforce community guidelines
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Moderator
+    company: Twitch
+    company_url: 'https://twitch.tv/postmalone'
+    location: Remote
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assisting Post Malone in hosting a charity event that raised over $200k
+        * Moderating and assisting user engagement with over 50,000 people present
+
+  - title: Esports Coach
+    company: ProGuides
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Remote
+    date_start: '2020-11-01'
+    date_end: '2022-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Competing in tournaments and leagues at a professional level
+        * Assisting clients in achieving their goals by teaching them advanced techniques
 
 design:
   columns: '1'
